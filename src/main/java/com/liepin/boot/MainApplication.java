@@ -13,5 +13,4 @@ public class MainApplication {
 
         SpringApplication.run(MainApplication.class,args); //主程序类 需要运行的类名
     }
-    ;
 }
